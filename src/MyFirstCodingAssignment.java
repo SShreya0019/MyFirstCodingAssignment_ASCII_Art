@@ -1,5 +1,34 @@
-public class Main {
+public class MyFirstCodingAssignment {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("\n" +
+                "                                ^\n" +
+                "                             (     )\n" +
+                "                           {         }\n" +
+                "                            (       )\n" +
+                "\n" +
+                "                   ///////////  ! /////////////\n" +
+                "             ////////                      /////////     \n" +
+                "             /     ///////////////////////////     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "             /                                     /\n" +
+                "                //   ///////////////////////// //                             \n");
     }
 }
